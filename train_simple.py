@@ -71,7 +71,7 @@ from utils.torch_utils import (
     smart_optimizer,
 )
 
-
+#ㅅㄷㄴㅅ
 # LOGGERS = ("csv", "tb", "wandb", "clearml", "comet")  # *.csv, TensorBoard, Weights & Biases, ClearML
 LOGGERS = ("wandb",)  # *.csv, TensorBoard, Weights & Biases, ClearML
 
